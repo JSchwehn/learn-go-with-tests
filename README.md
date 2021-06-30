@@ -23,7 +23,7 @@
 
 ## Unterstütz mich
 
-Ich bin stolz diese Hilfsquelle kostenlos anzubieten aber willst Du mir etwas anerkennung zukommen lassen:
+Ich bin stolz diese Hilfsquelle kostenlos anzubieten aber wenn Du mir etwas Anerkennung zukommen lassen willst:
 
 - [Twitter mich an @quii](https://twitter.com/quii)
 - [Gib mir ein Kaffee aus :coffee:](https://www.buymeacoffee.com/quii)
@@ -31,8 +31,8 @@ Ich bin stolz diese Hilfsquelle kostenlos anzubieten aber willst Du mir etwas an
 
 ## Warum
 
-* Entdecke die Go Sprache durch Tests schreiben
-* **Bau ein Fundament mit TDD auf**. Go ist eine gute Sprache um TDD zu lernen, denn die Sprache ist einfach zu lernen und testen ist mit eingebaut.
+* Entdecke die Go Sprache durch schreiben von Tests
+* **Bau dir TDD Grundlagen TDD auf**. Go ist eine gute Sprache um TDD zu lernen, denn die Sprache ist einfach zu lernen und testen ist mit eingebaut.
 * Du kannst dir sicher sein, dass du in der lage sein wirst, robuste und gut getestete Systeme in Go zu schreiben.
 * [Schau dir ein Video an oder lese warum Unit Testing und TDD wichtig ist.](why.md)
 
